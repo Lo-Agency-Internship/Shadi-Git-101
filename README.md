@@ -16,3 +16,9 @@ Git Assignment
 | Push | Push is used to upload the commits from local repository content to a remote repository. |
 | Repository | Git repository is a directory or storage space of the project that stores all the data.|
 | Stash | Stash allows you to temporarily save your file changes without committing them to the repository. |
+
+
+
+| clone | This creates a local copy of the remote repo. This allows you to make all of your edits locally rather than directly in the source files of the origin|
+| rebase | The process of moving or combining a sequence of commits to a new base commit. Rebasing is most useful and easily visualized in the context of a feature branching workflow |
+| Cherry picking | It enables arbitrary Git commits to be picked by reference and appended to the current working HEAD. Cherry picking is the act of picking a commit from a branch and applying it to another|
